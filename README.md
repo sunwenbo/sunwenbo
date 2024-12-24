@@ -35,7 +35,7 @@ I work with a variety of languages and tools, including:
 
 ### 📊 My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwenbo&langs_count=10&show_icons=true&theme=gotham)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwenbo&langs_count=5&show_icons=true&theme=gotham)
 
 ---
 
