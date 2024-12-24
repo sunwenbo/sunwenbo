@@ -1,7 +1,9 @@
 # Welcome to My GitHub Profile!
 
 ### Hey there, I'm Sun Wenbo!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![CSDN](https://img.shields.io/badge/CSDN-sinsy-blue?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/weixin_43798031?type=blog)
+[![CSDN](https://img.shields.io/badge/CSDN-Cloud孙文波-blue?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/weixin_43798031?type=blog)
+
+---
 
 ### 📧 My Email
 If you have any questions, feel free to contact me at [cloudsunwenbo@gmail.com](mailto:cloudsunwenbo@gmail.com).
@@ -42,8 +44,7 @@ I work with a variety of languages and tools, including:
 
 ### 📊 My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwenbo&show_icons=true&theme=gotham)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwenbo&langs_count=5&show_icons=true&theme=gotham)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwenbo&langs_count=10&show_icons=true&theme=gotham)
 
 ---
 
