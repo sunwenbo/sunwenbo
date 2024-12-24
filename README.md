@@ -27,15 +27,6 @@ I work with a variety of languages and tools, including:
 
 ---
 
-### 💻 Technologies & Tools
-- **Golang** (Gin, Goroutine)
-- **Python** (Django, Flask)
-- **Vue** & **Node.js**
-- **SQL & NoSQL** Databases
-- **Docker**, **Kubernetes**
-
----
-
 ### 📈 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunwenbo&show_icons=true&theme=gotham)
