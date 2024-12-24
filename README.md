@@ -1,15 +1,18 @@
 # Welcome to My GitHub Profile!
 
-### Hey there, I'm Sun Wenbo! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![](https://img.shields.io/badge/Homepage-about-brightgreen?style=flat-square)](https://blog.sincehub.cn/about/)
-[![](https://img.shields.io/badge/InfoQ-sinsy-blue?style=flat-square)](https://www.infoq.cn/u/sinsy/publish)
+### Hey there, I'm Sun Wenbo! 👋 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![](https://img.shields.io/badge/CSDN-sinsy-blue?style=flat-square)](https://blog.csdn.net/weixin_43798031?type=blog)
 
-### My email 📧
-If you have any questions, you can contact me by email cloudsunwenbo@gmail.com
+### 📧 My Email
+If you have any questions, feel free to contact me at [cloudsunwenbo@gmail.com](mailto:cloudsunwenbo@gmail.com).
 
-Welcome to my GitHub profile. I'm a passionate developer who loves creating cool projects.
+Welcome to my GitHub profile! I'm a passionate developer who loves creating cool and efficient projects.
 
-### Languages & Tools 💻
+---
+
+### 💻 Languages & Tools
+I work with a variety of languages and tools, including:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
@@ -19,43 +22,56 @@ Welcome to my GitHub profile. I'm a passionate developer who loves creating cool
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/pycharm/pycharm.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/goland/goland.png"></code>
+<code><img height="20" src="https://img.shields.io/badge/GoLand-1e1e1e?style=flat-square&logo=jetbrains&logoColor=white"></code>
 
+---
 
-## 💻 Technologies & Tools
-- Golang (vue, Node.js)
-- Python (Django, Flask)
-- SQL & NoSQL Databases
-- Docker, Kubernetes
+### 💻 Technologies & Tools
+- **Golang** (Gin, Goroutine)
+- **Python** (Django, Flask)
+- **Vue** & **Node.js**
+- **SQL & NoSQL** Databases
+- **Docker**, **Kubernetes**
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&hide_title=true&count_private=true)
+---
 
-### My GitHub Stats 📈
+### 📈 My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=sunwenbo&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunwenbo&show_icons=true&theme=gotham)
 
-### My language Stats 📈
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunwenbo&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
- 
+---
+
+### 📊 My Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwenbo&show_icons=true&theme=gotham)
+
+---
+
 ## 📣 Latest Blog Posts
-<!-- Add your blog feed or personal post links here -->
-- [How to Build a REST API with Node.js](https://example.com)
-- [Understanding Async/Await in JavaScript](https://example.com)
+Here are some of my latest blog posts:
+
+- [Building a Smart Work Order System with Go](https://github.com/sunwenbo/smart-api)
+- [Introduction to Go Goroutines and Concurrency](https://github.com/sunwenbo/smart-api)
+
+---
 
 ## 🌱 Current Project
-I'm currently working on a [personal portfolio](https://github.com/your-portfolio-project).
+I'm currently working on the **Smart Work Order System**.  
+Check it out here: [Smart API Project](https://github.com/sunwenbo/smart-api).
 
+---
 
-### About History
+### About My Open Source Journey
 
-- 🚀 开源项目贡献者，专注于高效和实用工具的开发。
-- 💡 开源 **Smart 工单系统**，提供灵活的任务管理和高效的工单处理功能。
-- 🌟 Smart 工单系统特点：
-  - 高度可定制的流程设计，适应不同场景需求。
-  - 支持多用户协作，提升团队效率。
-  - 集成主流通知服务（如邮件、Slack、微信等），确保任务实时跟踪。
+- 🚀 **Open Source Contributor**: I focus on creating efficient and practical tools.
+- 💡 **Smart Work Order System**: A flexible and powerful task management system for teams.
+  - Highly customizable workflows to fit different scenarios.
+  - Multi-user collaboration for enhanced productivity.
+  - Integrated notifications (email, Slack, WeChat, etc.) for real-time task tracking.
 
-🔗 **[查看 Smart 工单系统 API 项目](https://github.com/sunwenbo/smart-api)**  
-🔗 **[查看 Smart 工单系统 UI 项目](https://github.com/sunwenbo/smart-ui)**
+🔗 **[Check out the Smart API project](https://github.com/sunwenbo/smart-api)**  
+🔗 **[Check out the Smart UI project](https://github.com/sunwenbo/smart-ui)**
+
+---
+
+Thanks for visiting my profile! Feel free to connect, contribute, or explore my repositories. 😊
